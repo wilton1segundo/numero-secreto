@@ -12,5 +12,5 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/47921081?v=4" width=115><br><sub>Wilton Ribeirto</sub>](https://github.com/wilton1segundo) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/gabrielle-ribeiro) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/522931?v=4" width=115><br><sub>Rodrigo Caneppele</sub>](https://github.com/rcaneppele)  | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/47921081?v=4" width=115><br><sub>Wilton Ribeirto</sub>](https://github.com/wilton1segundo) |
 | :---: | ---: | ---: |
